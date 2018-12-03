@@ -10,4 +10,8 @@ public class GitTest{
 		return "This is my GitHub test";
 	}
 
+	public void setString(String githubtest){
+		this.githubtest = githubtest;
+	}
+
 }
